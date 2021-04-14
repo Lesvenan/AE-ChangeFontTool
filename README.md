@@ -4,7 +4,7 @@ You know what bothers me more than not having enough god damn toilet paper for t
 
 So instead of doing a hunger management workshop, I present you the new AE script : ChangingFontTool Extravaganza.
 
-With this new tool, you can :
+## With this new tool, you can :
 - **Change all the select text layer**, or all the text layers in selected compositions **in one click**.
 - Choose to **change only text layers with a specific font**, or all the text layers.
 - Change their **font**, but also their **font size**, their **font colour** and how they are **justified**.
